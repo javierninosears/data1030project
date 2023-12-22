@@ -11,4 +11,4 @@ I became curious to find any quantitative explanations for the effects of bureau
 The model was engineered with the following research question in mind: Can I predict how long it takes for a given building permit to be issued in the City of San Francisco? This is a regression problem, because I am predicting a continuous variable—in this case, the number of days between filing a permit with the city and having it issued. An analysis of this question could be incredibly valuable for the construction industry, with the delay in issuing building permits considered the main reason for discrepancy in demand and supply in the real estate industry. Additionally, a geographic analysis of the variance in permit issuance times across neighborhoods could unearth systemic inequities in development speeds in different neighborhoods, showcasing an unjust prioritization of certain neighborhoods and demographic groups over others.
 
 
-Link to dataset: https://data.sfgov.org/Housing-and-Buildings/Building-Permits/i98e-djp9/data
+Link to full dataset: https://data.sfgov.org/Housing-and-Buildings/Building-Permits/i98e-djp9/data
